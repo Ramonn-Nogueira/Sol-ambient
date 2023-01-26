@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# Exemplo de Projeto de Capacete de Segurança
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Este projeto demonstra um caso de uso básico de <i>HARDHAT<i>. Ele vem com um contrato de amostra, um teste para esse contrato e um script que implanta esse contrato.
 
-Try running some of the following tasks:
+Tente executar algumas das seguintes tarefas:
 
 ```shell
 npx hardhat help
