@@ -1,4 +1,4 @@
-# Exemplo de Projeto de Capacete de Segurança
+# Exemplo de Projeto de Hardhat
 
 Este projeto demonstra um caso de uso básico de <i>HARDHAT<i>. Ele vem com um contrato de amostra, um teste para esse contrato e um script que implanta esse contrato.
 
